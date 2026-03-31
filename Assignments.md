@@ -25,14 +25,14 @@
 > Team Project: AI Full Stack Application
 >
 > - Kindly submit the GitHub Repo URL
-> - 
+> - https://github.com/PRAVEEN1000-7/Modern-Software-Development-Practices-Assignments/blob/main/Assignments.md
 >
 > - Kindly submit the Live Application URL (Domain)
 > - bugbuddy.codewithpraveen.dev
 >
 > - Kindly submit the GitHub Pages (Documentation) URL
-> - 
+> - http://assignment.md/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
-> 
+ https://www.linkedin.com/posts/aakash-s-a5375429a_modernsoftwaredevelopment-softwareengineering-activity-7444708026235711488-ac6R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEheqd8Bjdm4clOYYdBRjTwo6OtFQWUeXUo
